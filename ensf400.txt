@@ -1,1 +1,4 @@
 I am changing the following information in the file:
+
+- The name of the database
+- The name of the user
